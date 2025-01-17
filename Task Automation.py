@@ -2,8 +2,8 @@ import os
 import shutil
 
 # Define source and destination directories
-source_dir = 'C:/Users/Sekar Harshitha/Documents'  # Replace with your actual source directory path
-dest_dir = 'C:/Users/Sekar Harshitha/Organized'  # Replace with your actual destination directory path
+source_dir = 'C:/Users/Kodipunjula charan/Documents'  # Replace with your actual source directory path
+dest_dir = 'C:/Users/Kodipunjula charan/Organized'  # Replace with your actual destination directory path
 
 # List of file types and their corresponding directories
 file_types = {
